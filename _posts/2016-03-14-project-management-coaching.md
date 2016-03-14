@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Keith Anderson is a Belfast-based certified PRINCE2 Practitioner and provides proven coaching for various Project Management qualifications.
-datePublished: '2016-03-14T21:44:20.649Z'
-dateModified: '2016-03-14T21:40:31.195Z'
+datePublished: '2016-03-14T21:44:54.087Z'
+dateModified: '2016-03-14T21:44:45.772Z'
 title: Project Management Coaching
 author: []
 sourcePath: _posts/2016-03-14-project-management-coaching.md
@@ -22,6 +22,8 @@ url: project-management-coaching/index.html
 _type: WebPage
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f68aaddc-9f4d-43f2-85ca-609029cfcdaa.jpg)
+
 # Project Management Coaching
 
 Keith Anderson is a Belfast-based certified PRINCE2 Practitioner and provides proven coaching for various Project Management qualifications.
