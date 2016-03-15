@@ -1,7 +1,7 @@
 name: keithbelfast-training
 favicon: null
-layout_spectrum: 0.10812
-typography_spectrum: 0.74209
+layout_spectrum: 0.50335
+typography_spectrum: 0.16789
 title: 'Project Management tutoring | Keith Anderson'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#006699'
-    - '#ffffff'
-    - '#c1dae6'
-    - '#4891b5'
+    - '#969198'
+    - '#c3bcc3'
+    - '#49515e'
+    - '#0b122e'
+    - '#af626a'
   brandStrength: 1
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 0
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
