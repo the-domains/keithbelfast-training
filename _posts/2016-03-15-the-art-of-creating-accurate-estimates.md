@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Matt Griffin
-    url: 'http://alistapart.com/author/mattgriffin'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://alistapart.com'
-  name: Alistapart
-  favicon: 'http://alistapart.com/components/assets/img/favicons/favicon.ico'
-  domain: alistapart.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://alistapart.com/column/creating-accurate-estimates'
+inLanguage: en
+starred: false
 keywords:
   - estimating
   - project
@@ -21,17 +17,23 @@ keywords:
   - questions
   - work
 description: Best approaches to developing accurate estimates.
-inLanguage: en
+datePublished: '2016-03-15T15:04:51.194Z'
+dateModified: '2016-03-15T15:04:50.808Z'
+author:
+  - name: Matt Griffin
+    url: 'http://alistapart.com/author/mattgriffin'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'http://alistapart.com/column/creating-accurate-estimates'
 title: The Art of Creating Accurate Estimates
-datePublished: '2016-03-15T15:03:57.292Z'
-dateModified: '2016-03-15T15:02:27.622Z'
 sourcePath: _posts/2016-03-15-the-art-of-creating-accurate-estimates.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Alistapart
+  domain: alistapart.com
+  url: 'http://alistapart.com'
+  favicon: 'http://alistapart.com/components/assets/img/favicons/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
