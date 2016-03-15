@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Tutoring in project disciplines
-datePublished: '2016-03-15T14:55:13.446Z'
-dateModified: '2016-03-15T14:54:19.771Z'
+datePublished: '2016-03-15T14:56:12.179Z'
+dateModified: '2016-03-15T14:55:23.716Z'
 title: What I offer
 author: []
 sourcePath: _posts/2016-03-15-what-i-offer.md
