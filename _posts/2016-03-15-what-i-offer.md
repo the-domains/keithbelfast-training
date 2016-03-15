@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-15T14:54:11.131Z'
-dateModified: '2016-03-15T14:52:19.954Z'
+description: Tutoring in project disciplines
+datePublished: '2016-03-15T14:55:13.446Z'
+dateModified: '2016-03-15T14:54:19.771Z'
+title: What I offer
+author: []
+sourcePath: _posts/2016-03-15-what-i-offer.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: What I offer
-author: []
-sourcePath: _posts/2016-03-15-what-i-offer.md
-published: true
 url: what-i-offer/index.html
 _type: Article
 
