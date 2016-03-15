@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-15T14:47:59.488Z'
-dateModified: '2016-03-15T14:47:59.117Z'
+datePublished: '2016-03-15T14:54:11.131Z'
+dateModified: '2016-03-15T14:52:19.954Z'
 authors: []
 publisher:
   name: null
@@ -24,16 +24,14 @@ _type: Article
 ---
 # What I offer
 
-## Coaching can be provided for the following PM disciplines
+Tutoring in project disciplines
 
-* PRINCE2
-* Agile
-* Lean
-* Kanban
+PRINCE2
 
-## Coaching sessions types
+Agile
 
-* one-to-one exam focused tutoring
-* introduction to project management
-* project management for teams
-* project management for web design
+Lean
+
+Kanban
+
+.
